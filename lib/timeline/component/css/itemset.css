@@ -34,6 +34,7 @@
 }
 
 .vis-nesting-group {
+  padding: 0 5px ;
   cursor: pointer;
 }
 
@@ -136,10 +137,10 @@
   background-color: rgba(0, 0, 0, 0.5);
 }
 .vis-ltr .vis-label.vis-nested-group .vis-inner {
-  padding-left: 150px;
+  padding-left: 140px;
 }
 .vis-rtl .vis-label.vis-nested-group .vis-inner {
-  padding-right: 150px;
+  padding-right: 140px;
 }
 
 .vis-group-level-unknown-but-gte1 {
